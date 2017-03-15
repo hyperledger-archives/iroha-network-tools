@@ -1,2 +1,2 @@
-# iroha-blockexplorer
+# iroha-network-tools
 ブロックエクスプローラ
