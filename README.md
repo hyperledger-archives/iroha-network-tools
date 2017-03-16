@@ -1,2 +1,3 @@
 # iroha-network-tools
-ブロックエクスプローラ
+
+See [the wiki](https://github.com/takemiyamakoto/iroha-network-tools/wiki)
